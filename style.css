@@ -1,0 +1,56 @@
+img{
+    align-content: center;
+}
+h1{
+    text-align: center;
+}
+br{
+    color: white;
+}
+p{
+    font-size:23px;
+    font-family: 'EB Garamond', serif;
+}
+h2{
+    font-family: 'EB Garamond', serif;
+}
+
+#about_us{
+    color:aqua;
+    align-items: center;
+}
+
+#gallery{
+     color:aqua;
+    align-items: center;
+}
+
+#achievements{
+    color: aqua;
+    align-items: center;
+}
+}
+img{
+    width: 250px;
+    height: 250px;
+}
+
+#contact{
+    color: aqua;
+}
+
+.imgs{
+    width: 200;
+    height: 200px;
+}
+#acheivement{
+    width: 1350px;
+    height:400px;
+    padding-left: 10px;
+    padding-right: 10px;
+}
+
+#logo{
+    width:  300px;
+    height: 300px;
+}
